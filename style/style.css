@@ -90,3 +90,19 @@ main section{
    border-radius: 5px;
    background-color:#fff8f3 ;
 }
+.support{
+  background-image: url(../assets/handshake.jpg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  width: 1140px;
+  height: 313px;
+  padding: 48px 64px 48px 64px;
+  gap: 32px;
+}
+.suggest{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 30px;
+
+}
