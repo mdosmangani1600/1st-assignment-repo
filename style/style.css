@@ -1,0 +1,11 @@
+
+.azeret-mono {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.header{
+    background-image:url(../assets/Hero-bg.png);
+    background-position: top left, bottom right;
+}
